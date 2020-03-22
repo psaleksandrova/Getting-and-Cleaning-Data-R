@@ -10,4 +10,4 @@ Goal|Link to item
 :---:|:---:
 Analysis R Script|[_R script link_](https://github.com/psaleksandrova/Getting-and-Cleaning-Data-R/blob/master/run_analysis.R)
 Tidy Data Set|[_Final Data link_](https://github.com/psaleksandrova/Getting-and-Cleaning-Data-R/blob/master/final_data.txt)
-CodeBook||[_CodeBook link_](https://github.com/psaleksandrova/Getting-and-Cleaning-Data-R/blob/master/CodeBook.md)
+CodeBook|[_CodeBook link_](https://github.com/psaleksandrova/Getting-and-Cleaning-Data-R/blob/master/CodeBook.md)
